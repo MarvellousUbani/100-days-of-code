@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Marvellous Ubani]
+# #100DaysOfCode Log - Round 1 - [Marvellous Ubani](https://github.com/MarvellousUbani)
 
 The log of my #100DaysOfCode challenge. Started on [July 30, Monday, 2019].
 
