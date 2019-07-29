@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Marvellous Ubani]
 
-The log of my #100DaysOfCode challenge. Started on [July 29, Monday, 2019].
+The log of my #100DaysOfCode challenge. Started on [July 30, Monday, 2019].
 
 ## Log
 
